@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-29_1642",
+    "name": "yoyo520241.github.io/4210604029",
     "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
@@ -37,7 +37,10 @@
     "siteFonts": [],
     "uniqCompNum": 44,
     "versionPublish": "4.8.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
